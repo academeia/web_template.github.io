@@ -11,4 +11,4 @@ docs/ 以下は公開されています。公開されているページは以�
 https://academeia.github.io/web_template.github.io/
 
 ## レイアウト
-レイアウトは "assets/css/style.scss", "_layouts/defaults.html",  "_layouts/defaults_en.html"で制御されています。デザインを変えたい場合はこれら3つのファイルを編集して下さい。
+レイアウトは "assets/css/style.scss" と "_layouts/defaults.html" で制御されています。デザインを変えたい場合はこれら2つのファイルを編集して下さい。
