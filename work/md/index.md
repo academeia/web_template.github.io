@@ -10,6 +10,6 @@ permalink: /
 
 GithubPagesのマニュアルは[こちら](GitHubpagesマニュアル.md)  
 
-Webテンプレートのダウンロードは[こちら]()  
+Webテンプレートのダウンロードは[こちら](https://github.com/academeia/hp_template)  
 
 Webテンプレートのマニュアルは[こちら](HTMLマニュアル.md)  
