@@ -1,3 +1,9 @@
+---
+layout: default
+title: githubpages
+permalink: /githubpages
+---
+
 # GitHub Pagesを使ったWebページ公開マニュアル
 
 GitHub Pagesとは、GitHub社が提供している静的Webページのためのホスティングサービスです。  
