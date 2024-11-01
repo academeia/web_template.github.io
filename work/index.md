@@ -8,22 +8,24 @@ permalink: /
 
 研究室ホームページ作成に特化した無料のホームページテンプレートです。
 
-## 利用方法
+## Webテンプレート
 
-1. テンプレート配布ページ(GitHub)にアクセスします
+Webテンプレートのダウンロードは[こちら](https://github.com/academeia/hp_template) から可能です。  
+ダウンロードから公開までは以下の手順と各マニュアルを参照してください。
 
-2. <> Code ▾ をクリックしてDownload ZIPを選択、テンプレートをダウンロードします
+### 利用方法
 
-3. GitHub Pagesの環境を用意しテンプレートをアップロードします（GitHub Pagesマニュアル参照）
+1. <> Code ▾ をクリックしてDownload ZIPを選択、テンプレートをダウンロードします
+2. GitHub Pagesの環境を用意しテンプレートをアップロードします（GitHub Pagesマニュアル参照）
+3. HTMLを編集し、テキストと画像を差し替えます（HTMLマニュアル参照）
+4. GitHub Pagesの設定をPublicに変更してホームページを公開します
 
-4. HTMLを編集し、テキストと画像を差し替えます（HTMLマニュアル参照）
+## マニュアル
 
-5. GitHub Pagesの設定をPublicに変更してホームページを公開します
+* [GithubPages マニュアル](md/githubpages.md)
+* [Webテンプレート マニュアル](md/webtemplate.md)
 
-GithubPagesのマニュアルは[こちら](GitHubpagesマニュアル.md)  
+## サンプルページ
 
-Webテンプレートのダウンロードは[こちら](https://github.com/academeia/hp_template)  
-
-Webテンプレートのマニュアルは[こちら](HTMLマニュアル.md)  
-
+利用イメージについては、以下のサンプルページを参照してください。  
 [サンプルページ](/sample/sample.html)
