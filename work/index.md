@@ -23,7 +23,7 @@ Webテンプレートのダウンロードは[こちら](https://github.com/acad
 ## マニュアル
 
 * [GithubPages マニュアル](md/githubpages.md)
-* [Webテンプレート マニュアル](md/webtemplate.md)
+* [Webテンプレート編集 マニュアル](md/webtemplate.md)
 
 ## サンプルページ
 
