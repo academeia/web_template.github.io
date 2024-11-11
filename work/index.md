@@ -16,6 +16,7 @@ Webテンプレートのダウンロードは[こちら](https://github.com/acad
 ### 利用方法
 
 1. <> Code ▾ をクリックしてDownload ZIPを選択、テンプレートをダウンロードします
+   ![code](/web_template.github.io/work/img/code.jpg)
 2. GitHub Pagesの環境を用意しテンプレートをアップロードします（GitHub Pagesマニュアル参照）
 3. HTMLを編集し、テキストと画像を差し替えます（HTMLマニュアル参照）
 4. GitHub Pagesの設定をPublicに変更してホームページを公開します

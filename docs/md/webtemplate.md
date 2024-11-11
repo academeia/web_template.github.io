@@ -29,8 +29,7 @@ GitHub Desktopのインストール時に設定した[Local path]内のリポジ
 > [!TIP]
 > テンプレートのHTMLがどのような処理をしているのか知りたい場合には、ChatGPTなど無料で使える生成AIを活用すると便利です。  
 > 以下のように知りたい部分のソースコードをコピー＆ペーストしてプロンプトを作成するとわかりやすく回答してくれます。
-> 
-> <img width="594" alt="chatgptsample" src="https://github.com/togetogepman/HPtemplate-manual/assets/8207604/8df6facf-4c5f-4b18-ab3c-50103fae7ac1">
+> ![chatgptsample](/web_template.github.io/docs/img/html1.jpg)
   
 ## ステップ3: テキストを編集する
 
@@ -303,7 +302,7 @@ headでは、検索したときに出てくるディスクリプション、ブ�
     </ul>
     ```
     このように表示されます。
-    ![kajo-nen](https://github.com/togetogepman/HPtemplate-manual/assets/8207604/32cc2f0b-9610-41c2-ad4c-159e61ae172e)
+    ![kajo-nen](/web_template.github.io/docs/img/html2.jpg)
     
 ### Contactを編集する
 
@@ -329,9 +328,9 @@ headでは、検索したときに出てくるディスクリプション、ブ�
 GoogleMapを使って研究室の地図を表示させることができます。
 
 1. GoogleMapで表示させたい位置にピンを立て、共有アイコンを押してください。
-   ![pin](https://github.com/togetogepman/HPtemplate-manual/assets/8207604/c2a16d2c-fd18-4452-8ee6-34d4301b067c)
+   ![pin](/web_template.github.io/docs/img/html3.jpg)
 1. 地図を埋め込むを選択し、HTMLをコピーを押してください。
-   ![pin-kyo](https://github.com/togetogepman/HPtemplate-manual/assets/8207604/fa9332a2-a72e-4aa2-bef4-6336e2adb07d)
+   ![pin-kyo](/web_template.github.io/docs/img/html4.jpg)
 1. `<iframe src="https...">`から`</iframe>`までの部分をコピーした内容に差し替えてください。
   
 ### フッターを編集する
