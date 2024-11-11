@@ -55,7 +55,7 @@ GitHub PagesでWebページを公開するためにはデータの保管場所�
 1. **新規リポジトリの作成**
     - 初めてGitHub Desktopを使う場合は「+ Create New Repository on your Hard Drive」をクリックします
     - チュートリアルが表示されない場合には「File」メニューから「New repository」を選択します。
-![create](/web_template.github.io/docs/img/git1.jpg)
+![create](/img/git1.jpg)
 
 1. **リポジトリ情報の入力**
     - 「name」は **ユーザ名.github.io** にしてください  
