@@ -74,7 +74,7 @@ GitHub PagesでWebページを公開するためにはデータの保管場所�
 
 1. **ローカルリポジトリにファイルを追加**
     - 作成したリポジトリのディレクトリ（デフォルトの場合、ドキュメント>GitHub>ユーザ名.github.io）を開きます。GitHub Desktopの「Show in Explorer」でも開くことができます。
-![showinexp](../img/git2.jpg)
+![showinexp](../img/git2.png)
     - [テンプレート配布ページ]()からダウンロードした2つのデータ（assetsフォルダとindex.html）を上記に移動します。
 > [!WARNING]
 > このフォルダに入れたデータはGitHubを通じて **全世界に公開されます** 。後にデータを消しても **ログはずっと残ってしまう** のでデータの扱いにはくれぐれも注意してください。
@@ -84,7 +84,7 @@ GitHub PagesでWebページを公開するためにはデータの保管場所�
     - ファイル一覧の下の「Summary(requited)」とある入力欄には今回の変更がどのような変更なのか手がかりとなるような記述を行います。内容はなんでも構いませんが、たとえば「テンプレート追加」のように何をしたのかわかりやすい記述が好ましいです。  
     その下の「Description」は省略可能です。
     - 「Commit to main」をクリックして変更を確定します。
-![summary](../img/git3.jpg)
+![summary](../img/git3.png)
 
 1. **プッシュ**
     - 「Repository」メニューから「Push」を選択、もしくは「Push origin」をクリックしローカルリポジトリの変更をGitHubにプッシュします。処理が完了するまでにしばらく時間がかかりますが、これでローカルリポジトリの変更をGitHub上に反映させることができます。  
@@ -98,9 +98,9 @@ GitHubではリポジトリを公開する　**Public** と非公開にする **
 
 2. **GitHub Pagesの設定**   
     - 上部にある⚙settingsをクリックします。  
-![setting](../img/git4.jpg)
+![setting](../img/git4.png)
     - 「General」最下段の **Danger Zone** にある「Change repository visibility」の「Change visibility」をクリックします。
-![danger](../img/git5.jpg)
+![danger](../img/git5.png)
     - 表示されたリポジトリ名を確認し「I want to make repository public」をクリックします。
 
 これでGitHub PagesでWebページが公開されます。初回は変更箇所も多く反映されるまで数分かかりますが、しばらくすると **https://ユーザ名.github.io/** でWebページにアクセスできるようになります。  
