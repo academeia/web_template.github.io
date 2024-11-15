@@ -29,7 +29,7 @@ GitHub Desktopのインストール時に設定した[Local path]内のリポジ
 > [!TIP]
 > テンプレートのHTMLがどのような処理をしているのか知りたい場合には、ChatGPTなど無料で使える生成AIを活用すると便利です。  
 > 以下のように知りたい部分のソースコードをコピー＆ペーストしてプロンプトを作成するとわかりやすく回答してくれます。
-> ![chatgptsample](/web_template.github.io/docs/img/html1.jpg)
+> ![chatgptsample](../img/html1.jpg)
   
 ## ステップ3: テキストを編集する
 
@@ -302,7 +302,7 @@ headでは、検索したときに出てくるディスクリプション、ブ�
     </ul>
     ```
     このように表示されます。
-    ![kajo-nen](/web_template.github.io/docs/img/html2.jpg)
+    ![kajo-nen](../img/html2.jpg)
     
 ### Contactを編集する
 
@@ -328,9 +328,9 @@ headでは、検索したときに出てくるディスクリプション、ブ�
 GoogleMapを使って研究室の地図を表示させることができます。
 
 1. GoogleMapで表示させたい位置にピンを立て、共有アイコンを押してください。
-   ![pin](/web_template.github.io/docs/img/html3.jpg)
+   ![pin](../img/html3.jpg)
 1. 地図を埋め込むを選択し、HTMLをコピーを押してください。
-   ![pin-kyo](/web_template.github.io/docs/img/html4.jpg)
+   ![pin-kyo](../img/html4.jpg)
 1. `<iframe src="https...">`から`</iframe>`までの部分をコピーした内容に差し替えてください。
   
 ### フッターを編集する
