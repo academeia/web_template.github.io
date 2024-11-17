@@ -6,8 +6,7 @@ permalink: /
 
 # テンプレートの紹介
 
-研究室ホームページ作成に特化した無料のホームページテンプレートです。
-
+株式会社アカデメイアが無料で提供している[研究室ホームページテンプレート](https://github.com/academeia/hp_template)のマニュアルです
 ## Webテンプレート
 
 Webテンプレートのダウンロードは[こちら](https://github.com/academeia/hp_template) から可能です。  
