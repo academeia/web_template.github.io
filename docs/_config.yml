@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 研究室ホームページテンプレート
-description: 研究室ホームページに特化した無料のホームページテンプレートです
+title: 研究室ホームページテンプレートマニュアル
+description: 株式会社アカデメイアが無料で提供している[研究室ホームページテンプレート](https://github.com/academeia/hp_template)のマニュアルです
 
 url: "https://academeia.github.io/web_template.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/web_template.github.io" # the subpath of your site, e.g. /blog
