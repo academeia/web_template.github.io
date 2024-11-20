@@ -31,8 +31,8 @@ GitHub Pagesを利用するにあたってまずGitHubのアカウントを作�
     例）ユーザ名を *academeia* にした場合  
     「https:// *academeia* .github.io/index.html/」  
 
-> [!WARNING]  
-> 上記の例で *academeia* の部分を変更したい場合にはGitHubアカウントを新しく作り直す必要があります。
+<a class="warning"> WARNING </a> 
+上記の例で *academeia* の部分を変更したい場合にはGitHubアカウントを新しく作り直す必要があります。
 
 ## ステップ2: GitHub Desktopのインストール
 

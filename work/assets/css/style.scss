@@ -11,7 +11,12 @@ $section-headings-color: #333333;
 $body-link-color: #82aaaa;
 
 $blockquote-text-color: #333333;
-
+.tip{
+  color: #00d431;
+}
+.warning{
+  color: orange;
+}
 .main-nav {
   display: flex ;
   font-size: 1.25rem;
