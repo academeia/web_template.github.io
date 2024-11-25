@@ -23,12 +23,10 @@ HTMLの編集自体はWindowsに標準搭載されているメモ帳等でも可
 GitHub Desktopのインストール時に設定した[Local path]内のリポジトリフォルダを開きます。場所がわからない場合はGitHub Desktopを立ち上げ**Show in Explorer** をクリックしても開くことができます。  
 リポジトリフォルダ内にある **index.html** を右クリックしインストールした「テキストエディタ」で開いてください。  
 
-\> [!TIP]
-リポジトリフォルダは今後ホームページの編集をする際によく使いますので、リポジトリフォルダのショートカットを作ってデスクトップに置いておくと便利です。  
 
-> [!TIP]
-> テンプレートのHTMLがどのような処理をしているのか知りたい場合には、ChatGPTなど無料で使える生成AIを活用すると便利です。  
-> 以下のように知りたい部分のソースコードをコピー＆ペーストしてプロンプトを作成するとわかりやすく回答してくれます。
+<span style="color:yellowgreen;">**TIP**</span>  
+テンプレートのHTMLがどのような処理をしているのか知りたい場合には、ChatGPTなど無料で使える生成AIを活用すると便利です。  
+以下のように知りたい部分のソースコードをコピー＆ペーストしてプロンプトを作成するとわかりやすく回答してくれます。
 > ![chatgptsample](../img/html1.png)
   
 ## ステップ3: テキストを編集する
@@ -44,17 +42,17 @@ HTMLを編集したあとにどのような表示になるか確認したい場�
 headでは、検索したときに出てくるディスクリプション、ブラウザに表示されるファビコン、Xなどで共有したときに表示されるOGP(Open Graph Protocol)などの処理を行っています。  
 見栄えをこだわりたい場合にはこれらの表記を工夫する必要はありますが、テンプレートで「研究者WEBサイトテンプレート」となっている箇所をすべて「◯◯大学××研究室」などに置き換えるだけでも支障なく運用することは可能です。  
 
-> [!TIP]
-> Ctrl+Fで文字列の検索と一括置換が可能です。  
+<span style="color:yellowgreen;">**TIP**</span>  
+Ctrl+Fで文字列の検索と一括置換が可能です。  
 
-> [!TIP]
-> OGPを適切に設定するにはページのURLと画像のURLを「絶対パス」で記述することが推奨されています。  
-> 以下、GitHubユーザ名をacademeiaに設定した場合の絶対パスの記載例です。  
-> ``` html
->  <meta property="og:url" content="https://academeia.github.io/index.html" />
->  ...
->  <meta property="og:image" content="https://academeia.github.io/assets/images/common/ogp.jpg" />  
-> ```
+<span style="color:yellowgreen;">**TIP**</span>  
+OGPを適切に設定するにはページのURLと画像のURLを「絶対パス」で記述することが推奨されています。  
+以下、GitHubユーザ名をacademeiaに設定した場合の絶対パスの記載例です。  
+``` html
+<meta property="og:url" content="https://academeia.github.io/index.html" />
+...
+<meta property="og:image" content="https://academeia.github.io/assets/images/common/ogp.jpg" />  
+```
 
 ### Newsを編集する
 
@@ -364,8 +362,8 @@ jpgとpngはWindowsのペイント等で作成編集できますが、svgやico�
 - sample-mv.jpg  
     メインビジュアルの画像です。推奨サイズは1190×430です。縦横比が異なる画像を入れても表示はできますが、サンプルの見た目とは変わってしまいますのでペイント等で編集することをお勧めします。  
 
-> [!TIP]
-> AppleのRetinaディスプレイに対応させたい場合は縦横それぞれ2倍のものを用意してください。表示は重くなりますがRetinaディスプレイでもぼやけずに表示させることができます。
+<span style="color:yellowgreen;">**TIP**</span>  
+AppleのRetinaディスプレイに対応させたい場合は縦横それぞれ2倍のものを用意してください。表示は重くなりますがRetinaディスプレイでもぼやけずに表示させることができます。
 
 - sample-ph-01.jpg, sample-ph-02.jpg  
     研究テーマ内に表示される画像です。サンプルでは200×200と300×200の二種類を用意してありますので、お好みのサイズのものを用意してください。

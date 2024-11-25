@@ -31,7 +31,7 @@ GitHub Pagesを利用するにあたってまずGitHubのアカウントを作�
     例）ユーザ名を *academeia* にした場合  
     「https:// *academeia* .github.io/index.html/」  
 
-<a class="warning"> WARNING </a> 
+<span style="color:orange;">**WARNING**</span>  
 上記の例で *academeia* の部分を変更したい場合にはGitHubアカウントを新しく作り直す必要があります。
 
 ## ステップ2: GitHub Desktopのインストール
@@ -75,9 +75,10 @@ GitHub PagesでWebページを公開するためにはデータの保管場所�
 1. **ローカルリポジトリにファイルを追加**
     - 作成したリポジトリのディレクトリ（デフォルトの場合、ドキュメント>GitHub>ユーザ名.github.io）を開きます。GitHub Desktopの「Show in Explorer」でも開くことができます。
 ![showinexp](../img/git2.png)
-    - [テンプレート配布ページ]()からダウンロードした2つのデータ（assetsフォルダとindex.html）を上記に移動します。
-> [!WARNING]
-> このフォルダに入れたデータはGitHubを通じて **全世界に公開されます** 。後にデータを消しても **ログはずっと残ってしまう** のでデータの扱いにはくれぐれも注意してください。
+    - [テンプレート配布ページ]()からダウンロードした2つのデータ（assetsフォルダとindex.html）を上記に移動します。  
+  
+<span style="color:orange;">**WARNING**</span>  
+このフォルダに入れたデータはGitHubを通じて **全世界に公開されます** 。後にデータを消しても **ログはずっと残ってしまう** のでデータの扱いにはくれぐれも注意してください。
 
 1. **変更のコミット**
     - GitHub Desktopの左側「Changes」には更新されたファイルの一覧が表示されます。ファイルを選択すると右側に変更箇所が表示されます。
