@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 研究室ホームページテンプレートマニュアル
-description: 株式会社アカデメイアが無料で提供している<a href="https://github.com/academeia/hp_template" style="color:inherit;">研究室ホームページテンプレート</a>のマニュアルです
+description: 株式会社アカデメイアが無料で提供している<u><a href="https://github.com/academeia/hp_template" style="color:inherit;">研究室ホームページテンプレート</a></u>のマニュアルです
 
 url: "https://academeia.github.io/web_template.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/web_template.github.io" # the subpath of your site, e.g. /blog
